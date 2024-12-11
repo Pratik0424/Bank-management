@@ -1,0 +1,1 @@
+888787446	userName fatherName	caste	mb.no	email	pass
